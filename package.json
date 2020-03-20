@@ -1,0 +1,20 @@
+{
+  "name": "cloudcam",
+  "version": "1.0.0",
+  "description": "A minimal Amazon Cloud Cam desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/mfiscus/cloudcam",
+  "keywords": [
+    "cloudcam",
+    "electron"
+  ],
+  "author": "Matt Fiscus",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^8.1.1",
+    "electron-packager": "^14.2.1"
+  }
+}
